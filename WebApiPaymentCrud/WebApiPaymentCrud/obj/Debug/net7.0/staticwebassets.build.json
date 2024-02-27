@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GabPj0+Bh71kwC3cCR7qXR65wYGwJl2wRRJOVtJalC0=",
+  "Source": "WebApiPaymentCrud",
+  "BasePath": "_content/WebApiPaymentCrud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
