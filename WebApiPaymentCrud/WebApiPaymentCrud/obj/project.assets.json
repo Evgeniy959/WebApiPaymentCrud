@@ -11744,11 +11744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test\\Projects\\WebApiPaymentCrud\\WebApiPaymentCrud\\WebApiPaymentCrud.csproj",
+      "projectUniqueName": "D:\\Test\\WebApiPaymentCrud\\WebApiPaymentCrud\\WebApiPaymentCrud\\WebApiPaymentCrud.csproj",
       "projectName": "WebApiPaymentCrud",
-      "projectPath": "D:\\Test\\Projects\\WebApiPaymentCrud\\WebApiPaymentCrud\\WebApiPaymentCrud.csproj",
+      "projectPath": "D:\\Test\\WebApiPaymentCrud\\WebApiPaymentCrud\\WebApiPaymentCrud\\WebApiPaymentCrud.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "D:\\Test\\Projects\\WebApiPaymentCrud\\WebApiPaymentCrud\\obj\\",
+      "outputPath": "D:\\Test\\WebApiPaymentCrud\\WebApiPaymentCrud\\WebApiPaymentCrud\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

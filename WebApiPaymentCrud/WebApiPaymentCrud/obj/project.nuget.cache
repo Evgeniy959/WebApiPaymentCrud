@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wyz6SgXsU3+AEToWIb1BBTM39V1sXeeZzONa2fXjLKEf/MH+zINkrqdg4S2OaT/GrXj+Jh5iil28RnyL/0B34Q==",
+  "dgSpecHash": "diAmm0tN2Qx0YCMYYZldqXh0M8CFcfIkHocIlJiWCiXtepk+U9TYZI6+UGMuTIkcYjqAiuxThXnZolxLchJ2Og==",
   "success": true,
-  "projectFilePath": "D:\\Test\\Projects\\WebApiPaymentCrud\\WebApiPaymentCrud\\WebApiPaymentCrud.csproj",
+  "projectFilePath": "D:\\Test\\WebApiPaymentCrud\\WebApiPaymentCrud\\WebApiPaymentCrud\\WebApiPaymentCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
