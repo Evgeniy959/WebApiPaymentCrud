@@ -59,7 +59,8 @@ namespace WebApiPaymentCrud.Controllers
                 return BadRequest();
             }
 
-            _context.Entry(paymentDetail).State = EntityState.Modified;
+            //_context.Entry(paymentDetail).State = EntityState.Modified;
+            _context.Update(paymentDetail);
 
             try
             {
